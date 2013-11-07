@@ -101,6 +101,10 @@
 
 <a href="http://www.renaultshop.fr/">![](renault-shop.png)</a>
 
+!SLIDE ======================
+
+<a href="http://html5-ninja.com/">![](html5-ninja.png)</a>
+
 
 !SLIDE ======================
 
